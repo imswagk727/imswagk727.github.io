@@ -23,7 +23,8 @@ Work experience
 
 * Development Intern
   * Covestro
-  * Front-End development in Angualr, API development using FastAPI in python
+  * Front-End development in Angular
+  * API development using FastAPI in python
   * Setup AWS Cognito SSO for authentication
 
 Awards
