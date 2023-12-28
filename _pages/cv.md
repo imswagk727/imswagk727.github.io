@@ -11,32 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in [Information Technology](https://handbook.monash.edu/2020/courses/C2000?year=2020), Monash University, 2022
+* M.S. in [Computing](https://handbook.unimelb.edu.au/2023/components/mc-it-spec-2-150/course-structure), University of Melbourne, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Monash University
+  * Analysing deprecated API and facilitating API migration
+  * Supervisor: [Dr Li Li](https://lilicoding.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Development Intern
+  * Covestro
+  * Front-End development in Angualr, API development using FastAPI in python
+  * Setup AWS Cognito SSO for authentication
+
+Awards
+======
+* Monash University - Winter Vacation Research Scholarship
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Front-End
+  * Angular, nodejs, Vue
 
-Publications
+* Back-End
+  * Java, Python, SQL
+
+* IOS & Android development
+* Vega-lite, Tableau
+* familiar with Linux development environment
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
