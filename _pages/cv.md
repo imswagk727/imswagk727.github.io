@@ -43,6 +43,9 @@ Skills
 * Vega-lite, Tableau
 * familiar with Linux development environment
 
+[View My Full PDF Resume](https://imswagk727.github.io/files/resume.pdf)
+
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
